@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.conteinerDashboard {
+    width: 485px;
+    height: 485px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menuDashboard {
+    width: 290px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titleDashboard {
+    text-align: center;
+}
+
+.userLogged {
+    text-align: center;
+}
+
+.userLogout{
+    text-align: center;
+}
+
+.acessoMenu {
+    text-align: center;
+}

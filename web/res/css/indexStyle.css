@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.formLogin {
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.titleFormLogin {
+    width: 130px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+
+.formLogin fieldset {
+    border-style: none;
+    border-radius: 10px 20px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a8a8a8+16,9b9b9b+47,9b9b9b+53,000000+100&amp;1+0,0.11+100 */
+    background: -moz-linear-gradient(45deg,  rgba(168,168,168,1) 0%, rgba(168,168,168,0.86) 16%, rgba(155,155,155,0.58) 47%, rgba(155,155,155,0.53) 53%, rgba(0,0,0,0.11) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,rgba(168,168,168,1)), color-stop(16%,rgba(168,168,168,0.86)), color-stop(47%,rgba(155,155,155,0.58)), color-stop(53%,rgba(155,155,155,0.53)), color-stop(100%,rgba(0,0,0,0.11))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(45deg,  rgba(168,168,168,1) 0%,rgba(168,168,168,0.86) 16%,rgba(155,155,155,0.58) 47%,rgba(155,155,155,0.53) 53%,rgba(0,0,0,0.11) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(45deg,  rgba(168,168,168,1) 0%,rgba(168,168,168,0.86) 16%,rgba(155,155,155,0.58) 47%,rgba(155,155,155,0.53) 53%,rgba(0,0,0,0.11) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(45deg,  rgba(168,168,168,1) 0%,rgba(168,168,168,0.86) 16%,rgba(155,155,155,0.58) 47%,rgba(155,155,155,0.53) 53%,rgba(0,0,0,0.11) 100%); /* IE10+ */
+    background: linear-gradient(45deg,  rgba(168,168,168,1) 0%,rgba(168,168,168,0.86) 16%,rgba(155,155,155,0.58) 47%,rgba(155,155,155,0.53) 53%,rgba(0,0,0,0.11) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a8a8a8', endColorstr='#1c000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+
+.imgUserLogin {
+    width: 128px;
+    height: 128px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+.inputFormLogin {
+    width: 245px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.inputFormLogin input {
+    width: 245px;
+    height: 30px;
+    font-size: 16px;
+}
+
+.submitFormLogin {
+    width: 245px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.submitLogin {
+    border-style: none;
+    width: 245px;
+    height: 30px;
+    font-size: 16px;
+    background-color: dodgerblue;
+    border-radius: 10px 20px;
+}
+
+.submitLogin:hover {
+    width: 245px;
+    height: 30px;
+    font-size: 16px;
+    color: white;
+}
+
+.msgLoginAlert {
+    width: 245px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    color: red;
+}

@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.formContainerAddModel1 {
+    width: 400px;
+    height: 290px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    /*background-color: red;*/
+}
+
+.formContainerDelModel1 {
+    width: 800px;
+    height: 290px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    background-color: red;
+}
+
+.formContainerSeaModel1 {
+    width: 850px;
+    /*height: 290px;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    /*background-color: red;*/
+}
+
+.formContainerLstModel1 {
+    width: 800px;
+    /*height: 290px;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    /*background-color: red;*/
+}
+
+.formContainerLstModel2 {
+    width: 1200px;
+    /*height: 290px;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    /*background-color: red;*/
+}
+
+.formContentBairro {
+    width: 150px;
+    float: left;
+}
+
+.formContentCidade {
+    width: 150px;
+    float: left;
+}
+
+.formContentEstado {
+    width: 150px;
+    float: left;
+}
+
+.formContentSubmit {
+    margin-top: 20px;
+    clear: left;
+}
+
+.msgLoginAlert {
+    font-size: 20px;
+    color: red;
+}
